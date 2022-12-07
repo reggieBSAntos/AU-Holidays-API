@@ -1,7 +1,7 @@
 "use strict";
 
 const url =
-  "https://script.google.com/macros/s/AKfycbxWjMXwzkOdChHbxR9RBXtUAdwCLZkNXsxkx6kumdUmIYxb5rjAQq3xrEIHdOtAFJXhcA/exec";
+  "https://script.google.com/macros/s/AKfycbxfNQF1SZ7uGgN6NHpBigDPaylZtSZfaKbGKSY434A_6ZZ-WARcSSYmS6jFQxmgDIwQ/exec";
 
 const getHolidays = async () => {
   try {
